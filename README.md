@@ -1,4 +1,4 @@
-# The Sparks Foundation - GRIP JULY21
+# The Sparks Foundation - GRIP JULY22
 Data Science & Business Analytics Internship
 
 ## Task 3: Exploratory Data Analysis - Retail
