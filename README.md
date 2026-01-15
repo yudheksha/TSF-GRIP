@@ -12,6 +12,7 @@ Dataset:
 - Scraped from worldometers.info (obtained by Joseph Assaker, scraped on May 14, 2022)
 - 225 countries
 - Date range: Jan 22, 2020 to May 14, 2022
+- Dataset link: https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset
 
 Dashboard highlights:
 - Daily and cumulative confirmed cases, deaths, recoveries
@@ -28,6 +29,8 @@ How to run:
 ## 2) Exploratory Data Analysis Global Terrorism (Python)
 
 Performed EDA on the Global Terrorism dataset to identify terrorism hot zones and extract security-focused insights.
+
+Dataset link: https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
 
 Key focus:
 - Identify hot zones by region and country
